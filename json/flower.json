@@ -1,0 +1,11 @@
+{
+  "name": "FLOWERS",
+  "description": "An adorable PUG pup!",
+  "image": "https://ipfs.io/ipfs/QmcNrqRtmnT5wCF3GLjivJ3Rwkrya7ZVPa2DpqdzAyZbPE?filename=imgFlowers.jpg",
+  "attributes": [
+    {
+      "trait_type": "cuteness",
+      "value": 100
+    }
+  ]
+}

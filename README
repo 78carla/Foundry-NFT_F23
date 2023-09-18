@@ -1,0 +1,8 @@
+#NFT
+
+Lesson 11 of the Cyfrin Foundry Solidity Course.
+
+We go through creating 2 different kinds of NFTs.
+
+- An IPFS Hosted NFT
+- An SVG NFT (Hosted 100% on-chain)
